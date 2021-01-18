@@ -1,0 +1,11 @@
+To execute this project we choose the python programming language.
+
+Run the following commands to excecute the python programs
+
+Install python from the following link ,as python requierd by the project
+https://www.python.org/downloads/
+
+Install matplotlib for charts by the following commands
+-> pip install matplotlib
+Run the following commands to excecute the see the results
+-> FCFS.py
